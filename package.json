@@ -26,6 +26,8 @@
     "@babel/register": "^7.0.0",
     "babel-loader": "^8.0.5",
     "chai": "^4.2.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.0",
     "ignore-styles": "^5.0.1",
     "jsdom": "^14.0.0",
     "mocha": "^6.0.2",
